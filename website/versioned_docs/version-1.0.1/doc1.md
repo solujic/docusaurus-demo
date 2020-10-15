@@ -1,7 +1,8 @@
 ---
-id: doc1
+id: version-1.0.1-doc1
 title: Latin-ish
 sidebar_label: Example Page
+original_id: doc1
 ---
 
 This is the latest version of the docs. Also known as version 1.0.1
